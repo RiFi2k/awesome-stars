@@ -1046,7 +1046,7 @@
 | 179 |  [dompdf](https://github.com/dompdf/dompdf) | HTML to PDF converter for PHP | dompdf | 11098 |
 | 180 |  [List-Category-Posts](https://github.com/picandocodigo/List-Category-Posts) | WordPress plugin which allows you to list posts from a category into a post/page using the [catlist] shortcode. | picandocodigo | 246 |
 | 181 |  [git-updater](https://github.com/afragen/git-updater) | This WP plugin will update GitHub, Bitbucket, GitLab, and Gitea hosted plugins and themes | afragen | 3315 |
-| 182 |  [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) | PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. | squizlabs | 10785 |
+| 182 |  [PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) | PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. | squizlabs | 10785 |
 | 183 |  [S3-Uploads](https://github.com/humanmade/S3-Uploads) | The WordPress Plugin to Store Uploads on Amazon S3 | humanmade | 2127 |
 | 184 |  [release-belt](https://github.com/Rarst/release-belt) | Composer repository implementation for ZIPs. | Rarst | 176 |
 | 185 |  [wp-password-bcrypt](https://github.com/roots/wp-password-bcrypt) | WordPress plugin to implement secure bcrypt hashed passwords | roots | 635 |
